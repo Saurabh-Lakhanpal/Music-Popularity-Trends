@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze and compare the popularity and trends of music tracks across Spotify and YouTube, identifying patterns, correlations, and insights. By leveraging multiple free-to-use APIs, we will gather data on music tracks and videos for various artists. The analysis will be performed using Python libraries such as `pandas`, `numpy`, and `matplotlib`.
+Aims is to analyze and compare the popularity and trends of music tracks across Spotify and YouTube, identifying patterns, correlations, and insights. By leveraging multiple free-to-use APIs, we will gather data on music tracks and videos for various artists. The analysis will be performed using Python libraries such as `pandas`, `numpy`, and `matplotlib`.
 
 ## Objectives
 
@@ -58,8 +58,8 @@ This project aims to analyze and compare the popularity and trends of music trac
    - Document the entire process, including code, visualizations, and findings.
    - Create a presentation or report to showcase the results.
   
-## Conclusion
-This project provides a comprehensive analysis of music popularity and trends across Spotify and YouTube. By leveraging multiple APIs and performing EDA, we can gain valuable insights into the relationship between music features and video metrics. The visualizations and findings from this project can be used to inform marketing strategies, understand audience preferences, and drive further research.
+## My Pitch
+This Shall be a comprehensive analysis of music popularity and trends across Spotify and YouTube. By leveraging multiple APIs and performing EDA, we can gain valuable insights into the relationship between music features and video metrics. The visualizations and findings from this project can be used to inform marketing strategies, understand audience preferences, and drive further research.
 
 ## Example Code Snippet
 
